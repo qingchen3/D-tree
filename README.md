@@ -15,7 +15,7 @@
  a) install Python3
  
  b) install dependencies
-    run "pip3 install -r requirements.text"
+    run `pip3 install -r requirements.text`
  
  
 ********************
