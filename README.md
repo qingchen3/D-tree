@@ -63,4 +63,3 @@
   
   
   To see how inefficient ET and opt are for large graph, run "python supplementary.py".
-  
