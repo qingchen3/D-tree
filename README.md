@@ -15,7 +15,7 @@
  a) install Python3
  
  b) install dependencies
-    run "pip3 install -r requirements.text"
+    run `pip3 install -r requirements.text`
  
  
 ********************
@@ -63,4 +63,3 @@
   
   
   To see how inefficient ET and opt are for large graph, run "python supplementary.py".
-  
