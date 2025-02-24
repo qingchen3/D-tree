@@ -61,3 +61,18 @@ The C++ implementation for D-tree is available. Free free to reach out.
   
   
   To see how inefficient ET and opt are for large graph, run "python supplementary.py".
+
+# Cite the paper 
+If you use or find this work interesting, please consider citing it.
+
+@article{chen2022dynamic,
+  title={Dynamic spanning trees for connectivity queries on fully-dynamic undirected graphs},
+  author={Chen, Qing and Lachish, Oded and Helmer, Sven and B{\"o}hlen, Michael H},
+  journal={Proceedings of the VLDB Endowment},
+  volume={15},
+  number={11},
+  pages={3263--3276},
+  year={2022},
+  publisher={VLDB Endowment}
+}
+
