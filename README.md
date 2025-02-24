@@ -1,26 +1,24 @@
+# Update
 
+The C++ implementation for D-tree is available. Free free to reach out.
 
-*******
- About 
-*******
+# About 
   
   This package contains source codes for our experiments. All results shown in our
   paper are reproducible.
 
 
-*********************************
- Install python3 and dependencies	 
-*********************************
+
+# Install python3 and dependencies	 
  
  a) install Python3
  
  b) install dependencies
     run `pip3 install -r requirements.text`
+
  
  
-********************
- Reproducing results
-********************
+# Reproducing results
 
   Reproducing the results reported in our paper. All results are stored in the folder "res". 
   
