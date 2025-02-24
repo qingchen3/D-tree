@@ -65,6 +65,7 @@ The C++ implementation for D-tree is available. Free free to reach out.
 # Cite the paper 
 If you use or find this work interesting, please consider citing it.
 
+```
 @article{chen2022dynamic,
   title={Dynamic spanning trees for connectivity queries on fully-dynamic undirected graphs},
   author={Chen, Qing and Lachish, Oded and Helmer, Sven and B{\"o}hlen, Michael H},
@@ -75,4 +76,4 @@ If you use or find this work interesting, please consider citing it.
   year={2022},
   publisher={VLDB Endowment}
 }
-
+```
